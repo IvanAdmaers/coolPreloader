@@ -1,0 +1,15 @@
+{
+  "name": "coolpreloader",
+  "version": "1.0.0",
+  "description": "Preloader for web pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Admaers <iadmaers@icloud.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.30.0"
+  }
+}
