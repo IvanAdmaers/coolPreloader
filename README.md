@@ -14,4 +14,4 @@ new coolPreloader().init('https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/F
 
 # Why
 
-I jusy did it to test
+I just did it to test
